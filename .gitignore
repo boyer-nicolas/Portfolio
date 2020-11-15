@@ -1,0 +1,17 @@
+files/sql/sql.php
+files/php.php
+files/composer.json
+files/composer.lock
+# files/vendor
+files/style/css/bootstrap
+files/js/bootstrap
+files/js/jquery
+files/js/country-list
+files/node_modules
+files/package-lock.json
+files/style/css/*.map
+files/style/js/*.map
+files/constants.php
+files/init.php
+.sass-cache
+*:Zone.Identifier
